@@ -1,4 +1,4 @@
-y=int(input())
-u=list(map(int,input().split()))
-for i in range (y):
- print(u[i],i)
+a=int(input())
+b=list(map(int,input().split()))
+for i in range(a):
+ print(b[i],i)
